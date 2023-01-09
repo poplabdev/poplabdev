@@ -1,7 +1,7 @@
 # 💫 About Me - RFS:
 Telecom Infrastructure<br>Data Analytics<br>Bug Bounty<br>CTFs<br>RF Security
 
-
+[![](https://visitcount.itsvg.in/api?id=poplabdev&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Hacking Playgrounds
 
 
@@ -27,7 +27,7 @@ Telecom Infrastructure<br>Data Analytics<br>Bug Bounty<br>CTFs<br>RF Security
 ### ✍️ GitHub History
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poplabdev&theme=zenburn)
 
-
+<iframe src="https://discord.com/widget?id=894273981606150224&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 ---
 [![](https://visitcount.itsvg.in/api?id=poplabdev&icon=0&color=0)](https://visitcount.itsvg.in)
 

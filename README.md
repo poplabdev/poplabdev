@@ -6,7 +6,7 @@
 </a>
 </h3>
 
-# 💫 About Me - RFS:
+# 💫 About  RFS
 - Telecom Infrastructure
 - Core Infrastructure
 - Data Analytics

@@ -38,13 +38,44 @@ Telecom Infrastructure<br>Data Analytics<br>Bug Bounty<br>CTFs<br>RF Security
 ## Published Articles
 
 <!-- Article-List:START -->
-- [Red Team Tools]()
-- [Active Directory Attacks]()
-- [Internet-Security-Documentation]()
+- [Red Team Tools](https://github.com/PopLabSec/Red-Team-Tools)
+- [Active Directory Penetration Testing](https://github.com/PopLabSec/Active-Directory-Penetration-Testing)
+- [Internet Security Documentation](https://github.com/PopLabSec/Internet-Security-Documentation)
+- [APIs Penetration Testing](https://github.com/PopLabSec/APIs-Penetration-Testing)
+- [Web Applications Penetration Testing](https://github.com/PopLabSec/Web-Applications-Penetration-Testing)
+- [RFS Ethical Hacking](https://github.com/PopLabSec/RFS-Ethical-Hacking)
+- [Networking Penetration Testing](https://github.com/PopLabSec/Networking-Penetration-Testing)
+- [Penetration Testing Tools](https://github.com/PopLabSec/Penetration-Testing-Tools)
+- []()
+<!-- Article-List:END -->
+
+## Certifications Guides
+
+<!-- Article-List:START -->
+- [CRTO-Exam-Guide](https://github.com/PopLabSec/CRTO-Exam-Guide)
+- [OSCP Study Guide 2023](https://github.com/PopLabSec/OSCP-Study-Guide-2023)
+- [eJPT Study Guide](https://github.com/PopLabSec/eJPT-Study-Guide)
+- [eCPPTv2 AIO](https://github.com/PopLabSec/eCPPTv2-AIO)
 - []()
 - []()
 - []()
 - []()
 - []()
-- []()
+<!-- Article-List:END -->
+
+
+## Hacking Network Protocols
+<!-- Article-List:START -->
+- [Port 21 FTP](https://www.poplabsec.com/ftp-penetration-testing/)
+- [Port 22 SSH](https://www.poplabsec.com/ssh-penetration-testing/)
+- [Port 23 Telnet]()
+- [Port 25 SMTP]()
+- [Port 53 DNS](https://dns-penetration-testing.popdocs.net/)
+- [Port 161 SNMP]()
+- [Port 3389 RDP](https://www.poplabsec.com/rdp-penetration-testing/)
+- [Port 445/139 SAMBA](https://www.poplabsec.com/smb-penetration-testing/)
+- [Port 3389 MySQL]()
+- [Port 389 LDAP]()
+- [Port 135/137/138 NetBIOS](https://www.poplabsec.com/netbios-penetration-testing/)
+- [Port 111 RPC]()
 <!-- Article-List:END -->

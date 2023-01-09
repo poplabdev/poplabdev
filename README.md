@@ -1,5 +1,11 @@
 # 💫 About Me - RFS:
-Telecom Infrastructure<br>Data Analytics<br>Bug Bounty<br>CTFs<br>RF Security
+Telecom Infrastructure<br>
+Core Infrastructure</br>
+Data Analytics<br>
+Bug Bounty<br>
+CTFs<br>
+RF Security<br>
+Surveillance<br>
 
 [![](https://visitcount.itsvg.in/api?id=poplabdev&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Hacking Playgrounds

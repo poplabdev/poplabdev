@@ -24,9 +24,8 @@ Telecom Infrastructure<br>Data Analytics<br>Bug Bounty<br>CTFs<br>RF Security
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=xxxx)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+### ✍️ GitHub History
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martian1337&theme=zenburn)
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 

@@ -56,11 +56,7 @@ Telecom Infrastructure<br>Data Analytics<br>Bug Bounty<br>CTFs<br>RF Security
 - [OSCP Study Guide 2023](https://github.com/PopLabSec/OSCP-Study-Guide-2023)
 - [eJPT Study Guide](https://github.com/PopLabSec/eJPT-Study-Guide)
 - [eCPPTv2 AIO](https://github.com/PopLabSec/eCPPTv2-AIO)
-- []()
-- []()
-- []()
-- []()
-- []()
+
 <!-- Article-List:END -->
 
 

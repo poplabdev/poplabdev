@@ -45,7 +45,9 @@
 ## 🐦 Discord Servers
 <a href="https://discord.gg/H46uHvSZne"><img src="https://discordapp.com/api/guilds/894273981606150224/widget.png?style=banner4" alt="Official Discord Community" target="_blank"></a>
 <a href="https://discord.gg/Sft2dnyj6Z"><img src="https://discordapp.com/api/guilds/880193638414565427/widget.png?style=banner4" alt="Official Discord Community" target="_blank"></a>
+</br>
 <a href="https://discord.gg/vk2JQaneUQ"><img src="https://discordapp.com/api/guilds/1040697202902839317/widget.png?style=banner4" alt="Official Discord Community" target="_blank"></a>
+<a href="https://discord.gg/mJ8Wy8yJEw"><img src="https://discordapp.com/api/guilds/1055301414265569360/widget.png?style=banner4" alt="Official Discord Community" target="_blank"></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=poplabdev&icon=0&color=0)](https://visitcount.itsvg.in)

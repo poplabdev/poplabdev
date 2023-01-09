@@ -41,7 +41,10 @@
 ### ✍️ GitHub History
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poplabdev&theme=zenburn)
 
-<iframe src="https://discord.com/widget?id=894273981606150224&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+
+<a href="https://discord.gg/H46uHvSZne"><img src="https://discordapp.com/api/guilds/894273981606150224/widget.png?style=banner4" alt="Official Discord Community" target="_blank"></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=poplabdev&icon=0&color=0)](https://visitcount.itsvg.in)
 

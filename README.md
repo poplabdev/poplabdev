@@ -38,9 +38,9 @@ Telecom Infrastructure<br>Data Analytics<br>Bug Bounty<br>CTFs<br>RF Security
 ## Published Articles
 
 <!-- Article-List:START -->
-- []()
-- []()
-- []()
+- [Red Team Tools]()
+- [Active Directory Attacks]()
+- [Internet-Security-Documentation]()
 - []()
 - []()
 - []()

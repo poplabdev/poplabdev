@@ -26,8 +26,7 @@ Telecom Infrastructure<br>Data Analytics<br>Bug Bounty<br>CTFs<br>RF Security
 
 ### ✍️ GitHub History
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poplabdev&theme=zenburn)
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=poplabdev&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -35,5 +34,17 @@ Telecom Infrastructure<br>Data Analytics<br>Bug Bounty<br>CTFs<br>RF Security
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/poplab) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/poplab) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/poplab) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Published Articles
+
+<!-- Article-List:START -->
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+<!-- Article-List:END -->

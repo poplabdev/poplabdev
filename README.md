@@ -15,6 +15,8 @@
 - RF Security
 - Surveillance
 
+[Author Bio Page](https://cli-ck.me/rfs)
+
 [![](https://visitcount.itsvg.in/api?id=poplabdev&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Hacking Playgrounds
 
@@ -35,14 +37,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=poplabdev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=xxxx)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ GitHub History
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poplabdev&theme=zenburn)
 
 
-
+## 🐦 Discord Server
 <a href="https://discord.gg/H46uHvSZne"><img src="https://discordapp.com/api/guilds/894273981606150224/widget.png?style=banner4" alt="Official Discord Community" target="_blank"></a>
 
 ---

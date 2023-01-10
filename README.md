@@ -2,7 +2,7 @@
 
 <h3 align="center">
 <a href="https://github.dev/rfs85">
-<img src="https://raw.githubusercontent.com/rfs85/rfs85/main/img/RFS-poplabsec.png" align="center" alt="RFS PopLabSec" border="0">
+<img src="https://raw.githubusercontent.com/rfs85/rfs85/main/img/RFS-poplabsec.png" align="center" alt="RFS PopLabSec" border="25">
 </a>
 </h3>
 
